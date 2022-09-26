@@ -1,0 +1,41 @@
+h1{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-family: Arial;
+    text-align: center;
+  }
+  
+  body{
+      background-color: rgba(22, 129, 230, 0.391);
+  }
+  
+  p{
+    font-size:20px;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  ul{
+     font-size: 17px;
+     list-style-type: lower-latin;    
+  }
+  
+  h2{
+     color: rgb(0, 34, 49);
+  }
+  
+  h3{
+     color: darkblue;
+
+  }
+  
+  img{  
+    width: 700px;
+    margin: 0 auto;  
+}
+
+  img#imagem{
+    width: 900px;
+    margin: 0 auto;
+    display: block;
+}
